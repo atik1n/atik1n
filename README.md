@@ -11,7 +11,7 @@
           srcset="https://github-readme-stats.vercel.app/api?username=atik1n&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&disable_animations=true"
           media="(prefers-color-scheme: dark)"
         />
-        <img src="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=github_light&hide_border=true&hide_rank=true](https://github-readme-stats.vercel.app/api?username=atik1n&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&disable_animations=true)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=atik1n&show_icons=true&theme=github_light&hide_border=true&hide_rank=true&disable_animations=true" />
     </picture>
     
 </div>
